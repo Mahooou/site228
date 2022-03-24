@@ -1,0 +1,54 @@
+/* section11 */
+.section11_title{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    color: #000000;
+    text-align: center;
+}
+.section11_wrapper{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: url('../img/section11.png') no-repeat center center / cover;
+}
+.section11_text1{
+    color: white;
+    background-color: #A56492;
+}
+.section11_text2{
+    font-weight: 700;
+    color:#000000;
+}
+.section11_subtitle{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    margin-top: 54px;
+    margin-bottom: 36px;
+}
+.section11_content{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+.section11_text3{
+    font-weight: 700;
+    color: #000000;
+}
+.section11_text4{
+    color: #FFFFFF;
+    background-color: #A56492;
+}
+.section11_text{
+    margin-top: 36px;
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}

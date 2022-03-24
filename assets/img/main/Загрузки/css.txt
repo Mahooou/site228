@@ -1,0 +1,79 @@
+/* section10 */
+
+.section10_wrapper{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.section10_box{
+    display: flex;
+    align-items: center;
+}
+.section10_title{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 36px;
+    color:black;
+}
+
+.section10_subtitle1{
+    padding-bottom: 28px;
+    padding-top: 50px;
+}
+
+.section10_text1{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+.section10_text2{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 24px;
+    color: black;
+}
+
+.section10_text2ravno{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 24px;
+    color: black;
+    margin-left: 8px;
+}
+
+.section10_text2solyanka{
+    display: flex;
+}
+
+.section10_text2 span{
+    color: white;
+    background-color: #A56492;
+}
+
+.section10_blacklike{
+    display: flex;
+    padding-top: 80px;
+}
+
+.section10_blackliketext{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    font-size: 24px;
+    color: black;
+    height: 116px;
+    width: 241px;
+}
+
+.section10_brace{
+    margin-left: 53px;
+    margin-right: 96px;
+    padding-top: 79px;
+}
+
+.blacklikepic{
+    width: 98px;
+    height: 98px;
+    margin-right: 21px;
+}
